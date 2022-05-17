@@ -1,1 +1,3 @@
-# learnhaskell
+# Haskell
+
+Changed README test
